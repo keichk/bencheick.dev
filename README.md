@@ -24,7 +24,7 @@ Chaque projet est cliquable, avec :
 
 ## 🔗 Lien vers l'app
 
-> 👉 [portfolio-bencheick.streamlit.app](https://portfolio-bencheick.streamlit.app)
+> 👉 [portfolio-bencheick.streamlit.app](https://bencheickdev-portfolio.streamlit.app/)
 
 ---
 
