@@ -9,21 +9,18 @@
             "Pandas",
             "BeautifulSoup"
         ],
-        "image": "project1.jpg",
         "link": "https://github.com/keichk/google-maps-scraper"
     },
     {
         "title": "FastAPI Quiz Project",
         "description": "An API for managing quizzes using FastAPI.",
         "technologies": ["FastApi", "Uvicorn", "Pydantic"],
-        "image": "project2.jpg",
         "link": "https://github.com/keichk/fastapi-quiz-project"
     },
     {
         "title": "ci_cd_sentiments_analysis",
         "description": "This project sets up an automated CI/CD pipeline to test a sentiment analysis API. The goal is to ensure the proper functioning of the API through unit and integration tests, executed via Docker containers orchestrated by Docker Compose.",
         "technologies": ["Python","FastApi", "Docker", "Docker Compose", "GitHub Actions"],
-        "image": "project3.jpg",
         "link": "https://github.com/keichk/ci_cd_sentiments_analysis"
     },
     {
@@ -45,7 +42,6 @@
             "GitLAb CI/CD",
             "Airflow",
             "Prometheus"],
-        "image": "project4.jpg",
         "link" :"https://github.com/elizachistova/Cryptobot"
     }
 ]
